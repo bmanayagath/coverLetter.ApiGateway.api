@@ -1,0 +1,3 @@
+# Exclude local secrets file
+appsettings.Secrets.json
+/.vs
